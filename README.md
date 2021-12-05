@@ -2,6 +2,6 @@
 Leanenergy website: Solar Renewable Energy landing page
 
 
-LIVE URL :https://zealous-goodall-f86c82.netlify.app/
+LIVE URL :https://leanenergy.netlify.app
 
 
